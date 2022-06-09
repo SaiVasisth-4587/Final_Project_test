@@ -1,0 +1,11 @@
+Model Information:
+* title:	BMW inspired 1930s Saloon car
+* source:	https://sketchfab.com/3d-models/bmw-inspired-1930s-saloon-car-879bf49adce84d8293905aef30a5383f
+* author:	Libau Media (https://sketchfab.com/robinmikart)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "BMW inspired 1930s Saloon car" (https://sketchfab.com/3d-models/bmw-inspired-1930s-saloon-car-879bf49adce84d8293905aef30a5383f) by Libau Media (https://sketchfab.com/robinmikart) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
